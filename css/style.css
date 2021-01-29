@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+  color: #fecd1a;
+  font-size: 25px;
+  font-family: 'Yusei Magic', serif;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+h1 {
+  font-size: 6rem;
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0 auto;
+  line-height: 1;
+  /*default*/
+}
+
+h2 {
+  font-family: "Yusei Magic", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 0;
+  margin-top: 0px;
+  margin-bottom: 0px !important;
+}
+
+h2.top {
+  font-weight: 100;
+  font position: relative;
+  margin-bottom: inherit;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin-top: 20px;
+  line-height: 2;
+}
+
+P {
+  color: white;
+  font-size: 1rem;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+/*.airplane{
+  position: absolute;
+  margin-top: -3.5rem;
+  margin-left: -35rem;
+  max-width: 300px;
+  max-height: 200px;
+}*/
+.sun1 {
+  position: absolute;
+  left: -6%;
+  top: -2%;
+  max-width: 400px;
+  max-height: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 5%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  bottom: 80%;
+}
+
+.top-container {
+  background-color: #1687a7;
+  padding-top: 5%;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #58391c;
+  margin: 0;
+}
+
+.footer-container {
+  position: relative;
+  background-color: #f05454;
+  padding-top: 5%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+a.bottom-container {
+  color: #fecd1a;
+}
+
+.dev {
+  padding: 0;
+  text-decoration: underline;
+  margin: 0;
+  line-height: 2;
+}
+
+.tree-left {
+  position: absolute;
+  margin-left: -200px;
+  margin-top: 11.8rem;
+  max-width: 30%;
+  max-height: 40%;
+}
+
+.tree-right {
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 11.8rem;
+  max-width: 30%;
+  max-height: 40%;
+}
+
+.mountain {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: -0.5rem !important;
+  padding-bottom: 0 !important;
+}
+
+.photo {
+  margin-top: 0px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.skill-img {
+  float: left;
+  margin-top: 0px;
+  margin-right: 30px;
+  width: 35%;
+  max-width: 300px;
+  max-height: 200px;
+}
+
+.htmls {
+  float: right;
+  margin-left: 30px;
+  width: 30%;
+  margin-top: 0px;
+  max-width: 300px;
+  max-height: 200px;
+}
+
+.contact {
+  float: left;
+  width: 25%;
+  margin-top: 0px;
+  max-width: 5rem;
+  max-height: 5rem;
+  width: auto;
+  height: auto;
+}
+
+.top {
+  margin: 0;
+  text-align: center;
+  position: relative;
+  padding-top: 0px;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+hr {
+  color: #fecd1a;
+  background-color: none;
+  border-style: dotted;
+  height: 0;
+  margin: 50px auto 50px auto;
+  border-top-width: 4px;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  position: relative;
+  width: 3%;
+}
+
+.getin{
+  margin-bottom: 20px;
+}
+
+.social-icons a {
+  font-size: 1.5em;
+  color: rgba(255, 255, 255, 0.7);
+  margin-right: 3%;
+  text-align: center;
+}
+
+.social-icons a:hover {
+  color: rgb(255, 255, 255);
+}
+
+.copyright {
+  margin-top: 2%;
+  color: rgba(255, 255, 255, 0.7)
+}
